@@ -1,0 +1,23 @@
+{ 
+	"comment_count": 1, 
+	"message": "6666", 
+	"uid": 345464618, 
+	"time": "2010-11-22 14:36:12", 
+	"source_url": "http://mobile.renren.com/showClient?psf=41010", 
+	"status_id": 1531567276, 
+	"source_name": "人人Android", 
+	"place": { 
+		"location": "柳芳北街-左家庄西街", 
+		"name": "柳芳北街-左家庄西街", 
+		"lbs_id": 153638, 
+		"longitude": 116.433969, 
+		"latitude": 39.958695, 
+		"url": "柳芳北街-左家庄西街" 
+	}, 
+	"forward_message": "不错~转自XXX：转自YYY ", 
+	"root_status_id": 123456, 
+	"root_message": "你好~", 
+	"root_uid": 6789654111231, 
+	"root_username": "小明", 
+	"forward_count": 12 
+}
