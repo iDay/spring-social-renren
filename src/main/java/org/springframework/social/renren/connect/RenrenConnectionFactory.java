@@ -4,7 +4,6 @@
 package org.springframework.social.renren.connect;
 
 import org.springframework.social.connect.support.OAuth2ConnectionFactory;
-import org.springframework.social.oauth2.AccessGrant;
 import org.springframework.social.renren.api.Renren;
 
 
